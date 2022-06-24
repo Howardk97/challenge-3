@@ -14,6 +14,8 @@ How the webpage should look at each step of the process:
 ![Ask to include special characters](./assets/images/password-generator-special.png)
 ![Ask to include numbers](./assets/images/password-generator-numbers.png)
 
+![Generated Password(will be randomized)](./assets/images/password-generator-webpage.png)
+
 # Webpage
 Below is a link to the webpage.
 
